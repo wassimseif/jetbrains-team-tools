@@ -149,7 +149,7 @@ wget https://download-cf.jetbrains.com/hub/2.5/hub-ring-bundle-2.5.330.zip -O /u
 
 wget https://download-cf.jetbrains.com/charisma/youtrack-6.5.17105.zip -O /usr/jetbrains/youtrack/arch.zip
 
-wget http://download.jetbrains.com/upsource/upsource-2.5.4995.zip -O /usr/jetbrains/upsource/arch.zip
+wget https://download-cf.jetbrains.com/upsource/upsource-3.0.4421.zip -O /usr/jetbrains/upsource/arch.zip
 
 pushd /usr/jetbrains/hub
 unzip arch.zip 
