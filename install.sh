@@ -147,7 +147,7 @@ mkdir -p /usr/jetbrains/{youtrack,hub,upsource}
 
 wget https://download-cf.jetbrains.com/hub/2.5/hub-ring-bundle-2.5.330.zip -O /usr/jetbrains/hub/arch.zip 
 
-wget https://download-cf.jetbrains.com/charisma/youtrack-6.5.17105.zip -O /usr/jetbrains/youtrack/arch.zip
+wget https://download-cf.jetbrains.com/charisma/youtrack-7.0.27477.zip -O /usr/jetbrains/youtrack/arch.zip
 
 wget https://download-cf.jetbrains.com/upsource/upsource-3.0.4421.zip -O /usr/jetbrains/upsource/arch.zip
 
