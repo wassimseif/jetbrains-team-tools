@@ -168,16 +168,17 @@ popd
 popd
 
 cd  /usr/jetbrains/hub
-cd hub-ring-bundle-2.5.330/
-#sudo mv * ../
+sudo mv hub-ring-bundle-2.5.330/* ./
+
+
 
 cd  /usr/jetbrains/upsource
-cd upsource-3.0.4421/
-#sudo mv * ../
+sudo mv upsource-3.0.4421/* ./
 
-cd  /usr/jetbrains/upsource
-cd youtrack-7.0.27477/
-#sudo mv * ../
+
+cd /usr/jetbrains/youtrack
+sudo mv youtrack-27477/* ./
+
 
 
 make_initd() {
